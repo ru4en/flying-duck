@@ -1,0 +1,13 @@
+# Target labels
+ ELF2UF2Build
+# Source files and their labels
+/home/ru4en/Projects/flying-duck/src/pi-pico/build/CMakeFiles/ELF2UF2Build
+/home/ru4en/Projects/flying-duck/src/pi-pico/build/CMakeFiles/ELF2UF2Build.rule
+/home/ru4en/Projects/flying-duck/src/pi-pico/build/CMakeFiles/ELF2UF2Build-complete.rule
+/home/ru4en/Projects/flying-duck/src/pi-pico/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-build.rule
+/home/ru4en/Projects/flying-duck/src/pi-pico/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-configure.rule
+/home/ru4en/Projects/flying-duck/src/pi-pico/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-download.rule
+/home/ru4en/Projects/flying-duck/src/pi-pico/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-install.rule
+/home/ru4en/Projects/flying-duck/src/pi-pico/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-mkdir.rule
+/home/ru4en/Projects/flying-duck/src/pi-pico/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-patch.rule
+/home/ru4en/Projects/flying-duck/src/pi-pico/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-update.rule
